@@ -569,8 +569,8 @@ a:hover {
 }
 
 #client img {
-    max-height: 80px;
-    margin: 0 20px;
+    max-height: 115px;
+    margin: 0 10px;
     opacity: 1;
     transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
@@ -1235,4 +1235,30 @@ a:hover {
     .table>tbody>tr>td {
         padding: 20px 10px;
     }
+}
+
+#download {
+    padding-top: 100px;
+    background: #f6f6f6;
+    color: inherit !important;
+}
+
+#download h2 {
+    margin: 15px 0 15px 0;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+#download .download-title p {
+    font-size: 18px;
+}
+
+#download img {
+    max-height: 42px;
+    margin: 0 10px;
+    margin-bottom: 30px;
+    opacity: 1;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
 }
