@@ -71,7 +71,7 @@ p {
 }
 
 a {
-    color: #3eb0f7;
+    color: #003047;
     outline: 0;
     font-weight: bold;
     -webkit-transition: all .8s ease;
@@ -86,7 +86,7 @@ a:hover {
 }
 
 .highlight {
-    color: #3eb0f7;
+    color: #003047;
 }
 
 #preloader {
@@ -136,14 +136,14 @@ a:hover {
 
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
-    color: #3eb0f7;
+    color: #003047;
 }
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     background: transparent;
-    color: #3eb0f7;
+    color: #003047;
 }
 
 .btn-default {
@@ -153,10 +153,10 @@ a:hover {
     line-height: 20px;
     padding: 15px 35px;
     height: 50px;
-    border: 2px solid #3eb0f7;
+    border: 2px solid #003047;
     background: transparent;
     transition: all 0.4s;
-    color: #3eb0f7;
+    color: #003047;
     border-radius: 100px;
 }
 
@@ -165,8 +165,8 @@ a:hover {
 .btn-default:active,
 .btn-default.active,
 .open>.dropdown-toggle.btn-default {
-    border: 2px solid #3eb0f7;
-    background: #3eb0f7;
+    border: 2px solid #003047;
+    background: #003047;
     color: white;
 }
 
@@ -177,8 +177,8 @@ a:hover {
     line-height: 20px;
     padding: 15px 35px;
     height: 50px;
-    border: 2px solid #3eb0f7;
-    background: #3eb0f7;
+    border: 2px solid #003047;
+    background: #003047;
     transition: all 0.4s;
     color: white;
     border-radius: 100px;
@@ -189,9 +189,9 @@ a:hover {
 .btn-primary:active,
 .btn-primary.active,
 .open>.dropdown-toggle.btn-primary {
-    border: 2px solid #3eb0f7;
+    border: 2px solid #003047;
     background: transparent;
-    color: #3eb0f7;
+    color: #003047;
 }
 
 .btn-secondary {
@@ -201,7 +201,7 @@ a:hover {
     padding: 20px 50px;
     height: 65px;
     border: none;
-    background: #3eb0f7;
+    background: #003047;
     transition: all 0.4s;
     color: white;
     border-radius: 4px;
@@ -296,7 +296,7 @@ a:hover {
     border-radius: 0;
     height: 55px;
     width: 100%;
-    background-color: #3eb0f7;
+    background-color: #003047;
     color: white;
     font-size: 17px !important;
     padding: 0 33px;
@@ -385,7 +385,7 @@ a:hover {
 }
 
 .feat-list:hover i {
-    color: #3eb0f7;
+    color: #003047;
     -webkit-transition: all .8s ease;
     transition: all .8s ease;
 }
@@ -446,7 +446,7 @@ a:hover {
 
 .subscribe-form button {
     border-radius: 0 4px 4px 0;
-    background-color: #3eb0f7;
+    background-color: #003047;
     color: #ffffff;
     font-size: 1em;
     line-height: 52px;
@@ -494,7 +494,7 @@ a:hover {
     width: 100px;
     height: 3px;
     margin: 0 auto;
-    background: #3eb0f7;
+    background: #003047;
 }
 
 .price-box {
@@ -530,7 +530,7 @@ a:hover {
 }
 
 .price-group .price {
-    color: #3eb0f7;
+    color: #003047;
     font-size: 90px;
     font-weight: 500;
 }
@@ -552,7 +552,7 @@ a:hover {
     font-size: 17px;
     padding: 7px 35px;
     height: 40px;
-    background: #3eb0f7;
+    background: #003047;
     transition: all 0.4s;
     color: white;
     border-radius: 4px;
@@ -569,8 +569,8 @@ a:hover {
 }
 
 #client img {
-    max-height: 115px;
-    margin: 0 10px;
+    max-height: 130px;
+    margin: 0px 2px;
     opacity: 1;
     transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
@@ -623,11 +623,11 @@ a:hover {
 
 .testi-item .client-info .company {
     font-style: italic;
-    color: #3eb0f7;
+    color: #003047;
 }
 
 .owl-theme .owl-controls .owl-page span {
-    background: #3eb0f7;
+    background: #003047;
 }
 
 .video-header {
@@ -697,7 +697,7 @@ a:hover {
     margin-left: 15px;
     position: absolute;
     left: 0;
-    color: #3eb0f7;
+    color: #003047;
     font-size: 25px;
     line-height: 30px;
 }
@@ -735,7 +735,7 @@ a:hover {
 #contact-form .btn {
     height: 55px;
     width: 100%;
-    background-color: #3eb0f7;
+    background-color: #003047;
     color: #ffffff;
     font-size: 17px !important;
     line-height: 18px;
@@ -774,17 +774,17 @@ a:hover {
     width: 40px;
     height: 40px;
     line-height: 40px;
-    color: #3eb0f7;
+    color: #003047;
     border-radius: 50%;
     background: #fff;
-    border: solid 1px #3eb0f7;
+    border: solid 1px #003047;
     -webkit-transition: all .8s ease;
     transition: all .8s ease;
 }
 
 .social li a:hover {
     color: #fff;
-    background: #3eb0f7;
+    background: #003047;
 }
 
 #shortcode-basic {
@@ -819,7 +819,7 @@ a:hover {
 }
 
 .social-icons i {
-    color: #3eb0f7;
+    color: #003047;
     font-size: 30px;
     line-height: 40px
 }
@@ -851,7 +851,7 @@ a:hover {
 }
 
 .table>thead>tr>th {
-    background: #3eb0f7;
+    background: #003047;
     color: #fff;
     border-bottom: 0;
     text-transform: uppercase;
@@ -890,7 +890,7 @@ a:hover {
 }
 
 .scrollToTop:hover {
-    color: #3eb0f7;
+    color: #003047;
 }
 
 .control-group .controls {
